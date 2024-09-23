@@ -1,5 +1,7 @@
 # Currency Exchange App
 
+[DEMO](https://exchange-app-xkn7.vercel.app/)
+
 This is a simple currency exchange application that allows users to convert between USD, EUR, and UAH. The app uses real-time data from [ExchangeRate API](https://app.exchangerate-api.com) to provide accurate currency conversion rates.
 
 ## Features
